@@ -38,7 +38,7 @@ Brief description of your project
 
 ## 📫 How to Reach Me
 
-- 📧 Email: your.email@example.com
+- 📧 Email: adeshkodekalmath@gmail.com
 - 💼 LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
 - 🐦 Twitter: [@your_handle](https://twitter.com/your-handle)
 
