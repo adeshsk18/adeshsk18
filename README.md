@@ -30,10 +30,9 @@ I'm a passionate software developer with a love for creating elegant solutions t
 
 ## 🌟 Featured Projects
 
-### [Project Name 1](https://github.com/your-username/project-1)
-Brief description of your project
-
-### [Project Name 2](https://github.com/your-username/project-2)
+### Cafe management app (https://github.com/adeshsk18/cafe-management-app)
+A modern, responsive landing page for Cozy Corner Cafe, featuring a clean design and smooth user experience.
+### [Project Name 2](https://github.com/adeshsk18/super-market-management-app)
 Brief description of your project
 
 ## 📫 How to Reach Me
