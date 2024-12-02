@@ -7,10 +7,10 @@
 
 I'm a passionate software developer with a love for creating elegant solutions to complex problems. My journey in tech has led me to work with various technologies and frameworks, always striving to learn and grow.
 
-- 🔭 I'm currently working on [Current Project]
-- 🌱 I'm currently learning [Technology/Skill]
+- 🔭 I'm currently working on Cafe Management App
+- 🌱 I'm currently learning Express
 - 👯 I'm looking to collaborate on interesting open-source projects
-- 💬 Ask me about [Your Expertise]
+- 💬 Ask me about Javascript
 - ⚡ Fun fact: [Interesting Fact About You]
 
 ## 🛠️ Technologies & Tools
