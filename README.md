@@ -11,7 +11,7 @@ I'm a passionate software developer with a love for creating elegant solutions t
 - 🌱 I'm currently learning Express
 - 👯 I'm looking to collaborate on interesting open-source projects
 - 💬 Ask me about Javascript
-- ⚡ Fun fact: [Interesting Fact About You]
+- ⚡ Fun fact:🙂
 
 ## 🛠️ Technologies & Tools
 
@@ -42,7 +42,7 @@ Brief description of your project
 - 🐦 Twitter: [@your_handle](https://twitter.com/your-handle)
 
 ---
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From adeshsk18(https://github.com/adeshsk18)
 
 
 <!---
