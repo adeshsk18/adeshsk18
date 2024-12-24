@@ -32,14 +32,14 @@ I'm a passionate software developer with a love for creating elegant solutions t
 
 ### Cafe management app (https://github.com/adeshsk18/cafe-management-app)
 A modern, responsive landing page for Cozy Corner Cafe, featuring a clean design and smooth user experience.
-### [Project Name 2](https://github.com/adeshsk18/super-market-management-app)
-Brief description of your project
+### Productivty Pro (https://github.com/adeshsk18/productivityPro)
+All in one productivity app for daily use
 
 ## 📫 How to Reach Me
 
 - 📧 Email: adeshkodekalmath@gmail.com
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@your_handle](https://twitter.com/your-handle)
+- 💼 LinkedIn: Adappayyaswami Kodekalmath (https://linkedin.com/in/adeshkodekalmath)
+- 🐦 Phone: +919686694750
 
 ---
 ⭐️ From adeshsk18(https://github.com/adeshsk18)
